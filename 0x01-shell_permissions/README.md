@@ -9,3 +9,4 @@ chmod ugo+x is used to give everyone permission into the file
 chmod 007 is sued to give access to only the users
 chmod 753
 chmod  --reference
+chmod -R ugo+X
