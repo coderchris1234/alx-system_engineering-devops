@@ -5,3 +5,4 @@ chown is used to change the owner of a file
 touch is used to create an empty file
 chmod u+x is used to make a file executable
 chmod u+x, g+x, o+r is used to execute permission to the owner and group ownerand read permission to other users
+chmod ugo+x is used to give everyone permission into the file
