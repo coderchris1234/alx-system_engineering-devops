@@ -1,1 +1,1 @@
-chown is used to chnage the owner of a file
+su command is used to change current user
