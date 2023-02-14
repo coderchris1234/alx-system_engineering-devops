@@ -5,3 +5,4 @@ echo 6
 printenv
 set
 echo 0
+echo 128
